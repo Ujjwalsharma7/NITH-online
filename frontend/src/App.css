@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Work+Sans&display=swap');
+
+.App{
+    min-height: 100vh;
+    display: flex;
+     background-image: url('../public/—Pngtree—circles\ abstract\ backround_3782741.png');
+     background-size: cover;
+     background-position: center;
+}
